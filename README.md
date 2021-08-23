@@ -11,6 +11,8 @@ I modified the original antenna plate from Radiomaster ([available on Thingivers
 
 If you want to use this mod, you'll have to find a U.FL to RP-SMA cable that you'll have to connect to the transceiver module of the TX16S. You can find such cables on your usual cheap electronics websites really easily.
 
+Don't forget to re-use the port-protecting-flap-thingy from the original antenna plate on the new one (unless you don't want to protect the ports of course).
+
 ### Print settings :
 
 > Note : This is only a suggestion of the print settings. Feel free to play around !
