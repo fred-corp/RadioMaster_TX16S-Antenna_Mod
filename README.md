@@ -19,7 +19,7 @@ Don't forget to re-use the port-protecting-flap-thingy from the original antenna
 
 - Material : PLA  
 - Extruder : 210°C (1st layer), 200°C (rest), 0.4mm  
-- Bed : Ambient°C (I have no heated bed on my printer)  
+- Bed : Ambient°C (I don't have a heated bed on my printer)  
 - Layer height : 0.1mm  
 - Infill : 100%  
 - Supports : Yes, resolution of 1mm
