@@ -1,6 +1,6 @@
 # RadioMaster TX16S : Removable Antenna Mod
 
-_You know, for when you want to change your antenna_
+You know, for when you want to change your antenna
 
 ## Why ?
 
@@ -13,7 +13,7 @@ If you want to use this mod, you'll have to find a U.FL to RP-SMA cable that you
 
 Don't forget to re-use the port-protecting-flap-thingy from the original antenna plate on the new one (unless you don't want to protect the ports of course).
 
-### Print settings :
+### Print settings
 
 > Note : This is only a suggestion of the print settings. Feel free to play around !
 
