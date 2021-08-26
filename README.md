@@ -9,13 +9,13 @@ I modified the original antenna plate from Radiomaster ([available on Thingivers
 
 ## How ?
 
-If you want to use this mod, you'll have to find a U.FL to RP-SMA cable that you'll have to connect to the transceiver module of the TX16S. You can find such cables on your usual cheap electronics websites really easily.
+>**⚠️Warning⚠️** : If you install this mod, don't forget to install the antenna _before_ turning on the TX16S (if internal RF is on). Not installing an antenna can do permanent damage to the RF module.
+
+If you want to do this mod, you'll have to find a U.FL to RP-SMA cable that you'll have to connect to the transceiver module of the TX16S. You can find such cables on your usual cheap electronics websites really easily.
 
 Don't forget to re-use the port-protecting-flap-thingy from the original antenna plate on the new one (unless you don't want to protect the ports of course).
 
 ### Print settings
-
-> Note : This is only a suggestion of the print settings. Feel free to play around !
 
 - Material : PLA  
 - Extruder : 210°C (1st layer), 200°C (rest), 0.4mm  
@@ -25,6 +25,8 @@ Don't forget to re-use the port-protecting-flap-thingy from the original antenna
 - Supports : Yes, resolution of 1mm
 
 The part can be oriented with the flat face (the visible face you can see on the pictures below) on the print bed.
+
+> Note : This is only a suggestion of the print settings. Feel free to play around !
 
 ## Pictures
 
